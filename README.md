@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Naufal%20Al%20Kayyis&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%26%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI+that+Actually+Works+%F0%9F%A4%96;From+Raw+Data+to+Real+Insights+%E2%9C%A8)](https://github.com/alkayyiss-ds)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+Data+into+Decisions+📊;Building+AI+that+Actually+Works+🤖;From+Raw+Data+to+Real+Insights+✨)](https://github.com/alkayyiss-ds)
 
 <br/>
 
@@ -16,32 +16,33 @@
 
 ---
 
-## &#x1F64B;&#x200D;&#x2642;&#xFE0F; About Me
+## 🙋‍♂️ About Me
 
 ```python
 class DataScientist:
     def __init__(self):
         self.name       = "Muhammad Naufal Al Kayyis"
         self.role       = "Data Scientist & ML Engineer"
-        self.university = "EEPIS (Institut Teknologi Sepuluh Nopember Surabaya)"
-        self.location   = "Surabaya, Indonesia"
+        self.university = "EEPIS — Institut Teknologi Sepuluh Nopember Surabaya"
+        self.location   = "Surabaya, Indonesia 🇮🇩"
         self.focus      = ["Machine Learning", "Big Data", "AI Systems", "Data Engineering"]
         self.currently  = "Building end-to-end ML pipelines & AI-powered apps"
-        self.fun_fact   = "I turn coffee into data insights (coffee -> stats)"
+        self.fun_fact   = "I turn coffee into data insights ☕ → 📊"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something awesome together!")
+        print("Thanks for visiting! Let's build something awesome together 🚀")
 
 me = DataScientist()
 me.say_hi()
 ```
 
 ---
-## &#x1F6E0;&#xFE0F; Tech Stack
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### &#x1F9E0; Machine Learning & AI
+### 🧠 Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -49,21 +50,21 @@ me.say_hi()
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-HPO-6366F1?style=for-the-badge)
 
-### &#x1F4CA; Data Engineering & Big Data
+### 📊 Data Engineering & Big Data
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### &#x1F310; Web & Backend
+### 🌐 Web & Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### &#x1F5C4;&#xFE0F; Databases & Stats
+### 🗄️ Databases & Statistics
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -74,7 +75,8 @@ me.say_hi()
 </div>
 
 ---
-## &#x1F4C8; GitHub Stats
+
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -88,21 +90,23 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alkayyiss-ds&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&hide_border=true&area_color=6AD3F720" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alkayyiss-ds&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## &#x1F3C6; GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=alkayyiss-ds&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-</div>div>
+
+</div>
 
 ---
 
-## &#x1F680; Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -121,7 +125,8 @@ me.say_hi()
 </div>
 
 ---
-## &#x1F310; Connect With Me
+
+## 🌐 Connect With Me
 
 <div align="center">
 
