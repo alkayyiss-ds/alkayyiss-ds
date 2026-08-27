@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Naufal%20Al%20Kayyis&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%26%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Naufal%20Al%20Kayyis&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+Data+into+Decisions+📊;Building+AI+that+Actually+Works+🤖;From+Raw+Data+to+Real+Insights+✨)](https://github.com/alkayyiss-ds)
