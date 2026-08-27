@@ -133,6 +133,21 @@ I study at **EEPIS (Institut Teknologi Sepuluh Nopember Surabaya)** and focus on
 
 </div>
 
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alkayyiss-ds/alkayyiss-ds/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alkayyiss-ds/alkayyiss-ds/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/alkayyiss-ds/alkayyiss-ds/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 <div align="center">
