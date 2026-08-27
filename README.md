@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Naufal%20Al%20Kayyis&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%26%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://github.com/alkayyiss-ds">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI+that+Actually+Works+%F0%9F%A4%96;From+Raw+Data+to+Real+Insights+%E2%9C%A8" alt="Typing SVG" />
-</a>a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+AI+that+Actually+Works+%F0%9F%A4%96;From+Raw+Data+to+Real+Insights+%E2%9C%A8)](https://github.com/alkayyiss-ds)
 
 <br/>
 
@@ -26,20 +24,19 @@ class DataScientist:
         self.name       = "Muhammad Naufal Al Kayyis"
         self.role       = "Data Scientist & ML Engineer"
         self.university = "EEPIS (Institut Teknologi Sepuluh Nopember Surabaya)"
-        self.location   = "Surabaya, Indonesia &#x1F1EE;&#x1F1E9;"
+        self.location   = "Surabaya, Indonesia"
         self.focus      = ["Machine Learning", "Big Data", "AI Systems", "Data Engineering"]
         self.currently  = "Building end-to-end ML pipelines & AI-powered apps"
-        self.fun_fact   = "I turn coffee into data insights &#x2615; &rarr; &#x1F4CA;"
+        self.fun_fact   = "I turn coffee into data insights (coffee -> stats)"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something awesome together &#x1F680;")
+        print("Thanks for visiting! Let's build something awesome together!")
 
 me = DataScientist()
 me.say_hi()
 ```
 
 ---
-
 ## &#x1F6E0;&#xFE0F; Tech Stack
 
 <div align="center">
