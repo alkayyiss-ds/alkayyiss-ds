@@ -16,33 +16,28 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name       = "Muhammad Naufal Al Kayyis"
-        self.role       = "Data Scientist & ML Engineer"
-        self.university = "EEPIS — Institut Teknologi Sepuluh Nopember Surabaya"
-        self.location   = "Surabaya, Indonesia 🇮🇩"
-        self.focus      = ["Machine Learning", "Big Data", "AI Systems", "Data Engineering"]
-        self.currently  = "Building end-to-end ML pipelines & AI-powered apps"
-        self.fun_fact   = "I turn coffee into data insights ☕ → 📊"
+Hi, I'm **Muhammad Naufal Al Kayyis** — a Data Scientist and ML Engineer based in Surabaya, Indonesia.
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something awesome together 🚀")
+I study at **EEPIS (Institut Teknologi Sepuluh Nopember Surabaya)** and focus on building end-to-end machine learning systems, from raw data processing to deployment.
 
-me = DataScientist()
-me.say_hi()
-```
+| | |
+|---|---|
+| **Role** | Data Scientist & ML Engineer |
+| **University** | EEPIS — Politeknik Elektronika Negeri Surabaya |
+| **Location** | Surabaya, Indonesia |
+| **Focus** | Machine Learning, Big Data, Data Engineering, AI Systems |
+| **Currently** | Building end-to-end ML pipelines and AI-powered applications |
+| **Contact** | alkayyiss10@gmail.com |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🧠 Machine Learning & AI
+### Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -50,21 +45,21 @@ me.say_hi()
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-HPO-6366F1?style=for-the-badge)
 
-### 📊 Data Engineering & Big Data
+### Data Engineering & Big Data
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🌐 Web & Backend
+### Web & Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🗄️ Databases & Statistics
+### Databases & Statistics
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -76,7 +71,7 @@ me.say_hi()
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -96,7 +91,7 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -106,7 +101,7 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -126,7 +121,7 @@ me.say_hi()
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 <div align="center">
 
